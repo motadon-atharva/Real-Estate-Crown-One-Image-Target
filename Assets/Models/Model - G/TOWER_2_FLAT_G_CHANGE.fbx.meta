@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 2f550e4d33d581c4d9b206b9c8cd6f09
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Cubemap
+      assembly: UnityEngine.CoreModule
+      name: diffuse_cube
+    second: {fileID: 8900000, guid: 0b30d73d708006e47bc339ee11807f43, type: 3}
+  - first:
+      type: UnityEngine:Cubemap
+      assembly: UnityEngine.CoreModule
+      name: specular_cube
+    second: {fileID: 8900000, guid: d31e0ea4c17a4344ca87b42bc8b7fea2, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #105
+    second: {fileID: 2100000, guid: f89f80550bd353644b26334878ca2097, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #140
+    second: {fileID: 2100000, guid: 6b1a980936886924d862119075f1e9c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #154
+    second: {fileID: 2100000, guid: 3cee53bb878f1e14e8bb486c54e9728a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #162
+    second: {fileID: 2100000, guid: 4719e9576c45b314e8a1685d74adda6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #27
+    second: {fileID: 2100000, guid: 36a464a68db0916428c2d28e92c0a862, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #45
+    second: {fileID: 2100000, guid: 3778fda2d7ebe554da1896949044ed15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #46
+    second: {fileID: 2100000, guid: 335053872641da443906bd311d2b0bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #47
+    second: {fileID: 2100000, guid: 9e35856aadca8364ea4c1ecc257cbb83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #50
+    second: {fileID: 2100000, guid: b5d53cdd3b9b1b348902fb3d5f510eeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #59
+    second: {fileID: 2100000, guid: 80b3144905f826e419f5c99c1752d4bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FI_Material #68
+    second: {fileID: 2100000, guid: 51fbd9eb189377547ad6c2fbb6323927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 94554877b796fa5499c057854a17ac7f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bathassets2k_VRayCompleteMap
+    second: {fileID: 2800000, guid: 8254acf6da95c354688ac5e3fdde770d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bedclonl_VRayCompleteMap
+    second: {fileID: 2800000, guid: ef8bfa006291c124f826a34aff5dc980, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dsaasd_VRayCompleteMap
+    second: {fileID: 2800000, guid: 4179ac2b86bf53947be9de05b884424b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fl4k_VRayCompleteMap
+    second: {fileID: 2800000, guid: f45d52e9f11d6b9438bb7fdbd13cb344, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fr_F_VRayCompleteMap
+    second: {fileID: 2800000, guid: 1d6bcbbe4acf57a4b988efcc050b27f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: framefinal_VRayCompleteMap
+    second: {fileID: 2800000, guid: f0d37d3a2f16b2c47a0ef79bfc8a3afb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: full_glass_glass_BaseColor
+    second: {fileID: 2800000, guid: 5888a2b50efbe3e468a4d046e75c559b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: full_glass_glass_Metallic
+    second: {fileID: 2800000, guid: c9d502285a0b530468b4a8391406203c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: full_glass_glass_Normal
+    second: {fileID: 2800000, guid: 2ac99c9e4ef17244ab0c5f08153fcec5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: full_glass_glass_Roughness
+    second: {fileID: 2800000, guid: cd569e077725eb94e981fee2384ae528, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kr_VRayCompleteMap
+    second: {fileID: 2800000, guid: d6ba3e4278af17040af62607ff23ba37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lkklkl_VRayCompleteMap
+    second: {fileID: 2800000, guid: 28aff228b75b52d40bd2ef05603b68c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sofa2k5_VRayCompleteMap
+    second: {fileID: 2800000, guid: fb7662dcd3460dc459dc48636480daf9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wb_VRayCompleteMap
+    second: {fileID: 2800000, guid: bc8a7bcfa94895d429db1f9860b82202, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woodtv2k_VRayCompleteMap
+    second: {fileID: 2800000, guid: d20b639a16d900447b0e1872e5bb74eb, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

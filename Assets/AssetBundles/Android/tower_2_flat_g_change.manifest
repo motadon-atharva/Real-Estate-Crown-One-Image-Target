@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 542133360
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e5c19b8ab373974618913912b43f4d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6d5135946bb95810cb7b3a79bb48eb1f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Model - G/TOWER_2_FLAT_G_CHANGE.prefab
+Dependencies: []
